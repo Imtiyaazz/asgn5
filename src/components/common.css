@@ -1,0 +1,31 @@
+.main {
+  background-color: lightgray;
+  width: 350px;
+  height: 350px;
+  /* margin-left: 50px; */
+  padding: 20px;
+  padding-left: 50px;
+  position: relative;
+  align-items: center;
+  margin: auto;
+  margin-top: 20px;
+  /* padding-right: -200px; */
+}
+.disp {
+  background-color: rgb(245, 250, 251);
+  height: 150px;
+  width: 270px;
+  padding: 20px;
+  padding-top: 10px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+h3 {
+  text-align: center;
+}
+input {
+  width: 303px;
+  margin: 10px;
+  height: 25px;
+  border: none;
+}
